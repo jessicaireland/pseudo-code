@@ -1,0 +1,49 @@
+gather mail from mailbox
+
+sort mail by recipient 
+if it's for my mom, 
+    start (and add to) mom pile
+if it's for my dad, 
+    start (and add to) dad pile
+if else, it's for me, 
+    start (and add to) my pile
+
+sort my pile by type (letters/cards, bills, important, junk, ads/coupons)
+
+if letters/cards 
+    open and read
+        if sentimental put in hat box
+        if else toss away
+
+if bills
+    open and read
+        if overdue or due within a week, pay now
+            after bill is paid, put reciept in file folder
+        if due after a week sort by due date, mark calendar with due dates
+            if due date is more than two weeks
+                put in pile
+                if else pin to corkboard
+
+ if important
+    open and read
+        if I need to respond
+            take action and respond
+        if else save in important documents in file folder
+
+if junk
+    look through
+    if I can use it for art projects
+        if so, save to recyle pile
+        if else toss away
+
+if ads or coupons
+    look through
+        sort coupons for items needed
+        if needed 
+            clip and put in pocket of grocery list folder
+        if not needed save in recycle pile for art projects          
+                          
+            
+            
+
+        
